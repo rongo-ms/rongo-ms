@@ -7,7 +7,7 @@ Senior Software Engineer at **Microsoft**, building AI infrastructure that runs 
 ### 🔭 What I work on
 
 **Edge AI & Azure Arc**
-Building Microsoft's on-premises AI platform — bringing Azure AI capabilities to customer-owned infrastructure through Azure Arc. Designing and shipping production systems for RAG, AI inference, and intelligent document processing that run on Arc-connected Kubernetes clusters, on-prem and at the edge.
+Building Microsoft's on-premises AI platform: bringing Azure AI capabilities to customer-owned infrastructure through Azure Arc. Designing and shipping production systems for RAG, AI inference, and intelligent document processing that run on Arc-connected Kubernetes clusters, on-prem and at the edge.
 
 **AI / ML Systems**
 - 🧠 **Edge RAG:** End-to-end Retrieval-Augmented Generation platform: document ingestion, chunking, embedding, vector search, and graph-based retrieval (LazyGraphRAG), all running on-prem
